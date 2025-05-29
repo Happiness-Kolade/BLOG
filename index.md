@@ -1,8 +1,4 @@
----
-layout: home
-title: Welcome
----
-
+#Welcome!
 # 👋 Hi, I'm Happiness
 
 Welcome to my personal blog — a space where I share insights, walkthroughs, and practical projects from my journey in cybersecurity.
