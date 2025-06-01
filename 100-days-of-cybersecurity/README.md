@@ -1,9 +1,7 @@
 <h1 style="color:#292929;">100 Days of Cybersecurity 💻🔐</h1>
 
 <p style="color:#333333; font-size:16px;">
-Welcome to my 100-day journey through cybersecurity, focused on Security Engineering and SOC analysis. 
-Each day, I document what I learn—tools, commands, scripts, labs, insights, and real-world applications. 
-This is a personal log, a growing portfolio, and an open invitation to learn out loud with me.
+This project documents my hands-on journey through 100 days of cybersecurity practice. It’s part learning log, part tutorial hub, and part resource archive for anyone entering or growing in the field of security engineering and SOC analysis.
 </p>
 
 <hr>
@@ -22,32 +20,37 @@ This is a personal log, a growing portfolio, and an open invitation to learn out
     <tr style="background-color:#fdf6ec;">
       <td><a href="Days/Day01/notes.md" style="color:#1e4ca3;">Day 01</a></td>
       <td style="color:#28a745;">✅</td>
-      <td>Kali setup & Linux basics</td>
+      <td>Install Ubuntu/Kali Linux VM and learn basic Linux commands (<code>ls</code>, <code>cd</code>, <code>cat</code>)</td>
     </tr>
     <tr>
       <td><a href="Days/Day02/notes.md" style="color:#1e4ca3;">Day 02</a></td>
       <td style="color:#28a745;">✅</td>
-      <td>chmod, chown, and file permissions</td>
+      <td>Understand Linux file permissions and practice with <code>chmod</code> and <code>chown</code></td>
     </tr>
     <tr style="background-color:#fdf6ec;">
       <td><a href="Days/Day03/notes.md" style="color:#1e4ca3;">Day 03</a></td>
       <td style="color:#28a745;">✅</td>
-      <td>Bash script: user login + cron job</td>
+      <td>Write a Bash script to list all users and their last login time</td>
     </tr>
     <tr>
       <td><a href="Days/Day04/notes.md" style="color:#1e4ca3;">Day 04</a></td>
       <td style="color:#28a745;">✅</td>
-      <td>Process monitoring: <code>ps</code>, <code>top</code></td>
+      <td>Schedule a daily log cleanup using a Cron job</td>
     </tr>
     <tr style="background-color:#fdf6ec;">
       <td><a href="Days/Day05/notes.md" style="color:#1e4ca3;">Day 05</a></td>
       <td style="color:#28a745;">✅</td>
-      <td>Networking basics: <code>ping</code>, <code>netstat</code>, <code>ifconfig</code></td>
+      <td>Use <code>ps</code> and <code>top</code> to monitor running processes</td>
     </tr>
     <tr>
-      <td>Day 06</td>
+      <td><a href="Days/Day06/notes.md" style="color:#1e4ca3;">Day 06</a></td>
       <td style="color:#d08900;">⏳</td>
-      <td>Coming soon...</td>
+      <td>Learn basic Linux networking commands (<code>ifconfig</code>, <code>ping</code>, <code>netstat</code>)</td>
+    </tr>
+    <tr style="background-color:#fdf6ec;">
+      <td><a href="Days/Day07/notes.md" style="color:#1e4ca3;">Day 07</a></td>
+      <td style="color:#d08900;">⏳</td>
+      <td>Configure and test basic firewall rules with <code>ufw</code></td>
     </tr>
   </tbody>
 </table>
@@ -56,10 +59,10 @@ This is a personal log, a growing portfolio, and an open invitation to learn out
 
 <h2 style="color:#292929;">📘 Challenge Outline</h2>
 <p style="font-size:15px; color:#333333;">
-For a full list of planned tasks, milestones, and learning goals, see the 
-<a href="Resources/challenge-outline.md" style="color:#1e4ca3;">Challenge Outline</a>.
+The full outline of tasks across all 100 days is available in the 
+<a href="Resources/challenge-outline.md" style="color:#1e4ca3;">Challenge Plan</a>.
 </p>
 
 <hr>
 
-<p style="font-size:13px; color:#999999;">Made with ☕, curiosity, and a terminal window.</p>
+<p style="font-size:13px; color:#999999;">Built with curiosity, discipline, and a terminal window.</p>
