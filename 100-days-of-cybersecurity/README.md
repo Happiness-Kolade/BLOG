@@ -32,25 +32,20 @@ This is a personal log, a growing portfolio, and an open invitation to learn out
     <tr style="background-color:#fdf6ec;">
       <td><a href="Days/Day03/notes.md" style="color:#1e4ca3;">Day 03</a></td>
       <td style="color:#28a745;">✅</td>
-      <td>Bash script to list all users and their login info</td>
-       <tr style="background-color:#fdf6ec;">
-       </tr>
-      <td><a href="Days/Day04/notes.md" style="color:#1e4ca3;">Day 04</a></td>
-      <td style="color:#28a745;">✅</td>
-      <td>Schedule a daily log cleanup with a Cron job.</td>
+      <td>Bash script: user login + cron job</td>
     </tr>
     <tr>
-      <td><a href="Days/Day05/notes.md" style="color:#1e4ca3;">Day 05</a></td>
+      <td><a href="Days/Day04/notes.md" style="color:#1e4ca3;">Day 04</a></td>
       <td style="color:#28a745;">✅</td>
       <td>Process monitoring: <code>ps</code>, <code>top</code></td>
     </tr>
     <tr style="background-color:#fdf6ec;">
-      <td><a href="Days/Day06/notes.md" style="color:#1e4ca3;">Day 06</a></td>
+      <td><a href="Days/Day05/notes.md" style="color:#1e4ca3;">Day 05</a></td>
       <td style="color:#28a745;">✅</td>
       <td>Networking basics: <code>ping</code>, <code>netstat</code>, <code>ifconfig</code></td>
     </tr>
     <tr>
-      <td>Day 07</td>
+      <td>Day 06</td>
       <td style="color:#d08900;">⏳</td>
       <td>Coming soon...</td>
     </tr>
