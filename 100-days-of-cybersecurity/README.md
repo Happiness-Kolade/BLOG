@@ -1,22 +1,43 @@
-# 100 Days of Cybersecurity 💻🔐
+<h2 style="color:#292929;">🗂️ Daily Progress Tracker</h2>
 
-As an aspiring cloud security leader, it is important that I get my foothold in the basics of cybersecurity generally, and for that reason, I embarked on this journey alongside 4 others.
-
-
-This is my documented journey through the 100 Days of Cybersecurity Challenge, with a focus on Security Engineering and SOC analysis.
-
-## 🧠 What's Inside
-
-- ✅ Daily notes, labs, and reflections (see `Days/` folder)
-- 📄 Full [Challenge Outline](Resources/challenge-outline.md)
-- 🛠️ Tools, scripts, and walkthroughs
-
-## ✅ Progress
-
-- [x] [Day 01](Days/Day01/notes.md) – Kali setup, Linux basics
-- [x] [Day 02](Days/Day02/notes.md) – File permissions, chmod, chown
-- [x] [Day 03](Days/Day03/notes.md) – Bash scripting, cron jobs
-- [x] [Day 04](Days/Day04/notes.md) – Process monitoring, `ps`, `top`
-- [x] [Day 05](Days/Day05/notes.md) – Networking basics, `ifconfig`, `ping`, `netstat`
-- [ ] Day 06 – Coming soon...
-- ...
+<table>
+  <thead>
+    <tr style="background-color:#292929; color:#ffffff;">
+      <th>Day</th>
+      <th>Status</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fdf6ec;">
+      <td><a href="Days/Day01/notes.md" style="color:#1e4ca3;">Day 01</a></td>
+      <td style="color:#28a745;">✅</td>
+      <td>Kali setup & Linux basics</td>
+    </tr>
+    <tr>
+      <td><a href="Days/Day02/notes.md" style="color:#1e4ca3;">Day 02</a></td>
+      <td style="color:#28a745;">✅</td>
+      <td>chmod, chown, and file permissions</td>
+    </tr>
+    <tr style="background-color:#fdf6ec;">
+      <td><a href="Days/Day03/notes.md" style="color:#1e4ca3;">Day 03</a></td>
+      <td style="color:#28a745;">✅</td>
+      <td>Bash script: user login + cron job</td>
+    </tr>
+    <tr>
+      <td><a href="Days/Day04/notes.md" style="color:#1e4ca3;">Day 04</a></td>
+      <td style="color:#28a745;">✅</td>
+      <td>Process monitoring: <code>ps</code>, <code>top</code></td>
+    </tr>
+    <tr style="background-color:#fdf6ec;">
+      <td><a href="Days/Day05/notes.md" style="color:#1e4ca3;">Day 05</a></td>
+      <td style="color:#28a745;">✅</td>
+      <td>Networking basics: <code>ping</code>, <code>netstat</code>, <code>ifconfig</code></td>
+    </tr>
+    <tr>
+      <td>Day 06</td>
+      <td style="color:#d08900;">⏳</td>
+      <td>Coming soon...</td>
+    </tr>
+  </tbody>
+</table>
