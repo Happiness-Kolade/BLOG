@@ -1,3 +1,13 @@
+<h1 style="color:#292929;">100 Days of Cybersecurity 💻🔐</h1>
+
+<p style="color:#333333; font-size:16px;">
+Welcome to my 100-day journey through cybersecurity, focused on Security Engineering and SOC analysis. 
+Each day, I document what I learn—tools, commands, scripts, labs, insights, and real-world applications. 
+This is a personal log, a growing portfolio, and an open invitation to learn out loud with me.
+</p>
+
+<hr>
+
 <h2 style="color:#292929;">🗂️ Daily Progress Tracker</h2>
 
 <table>
@@ -22,22 +32,39 @@
     <tr style="background-color:#fdf6ec;">
       <td><a href="Days/Day03/notes.md" style="color:#1e4ca3;">Day 03</a></td>
       <td style="color:#28a745;">✅</td>
-      <td>Bash script: user login + cron job</td>
+      <td>Bash script to list all users and their login info</td>
+       <tr style="background-color:#fdf6ec;">
+       </tr>
+      <td><a href="Days/Day04/notes.md" style="color:#1e4ca3;">Day 04</a></td>
+      <td style="color:#28a745;">✅</td>
+      <td>Schedule a daily log cleanup with a Cron job.</td>
     </tr>
     <tr>
-      <td><a href="Days/Day04/notes.md" style="color:#1e4ca3;">Day 04</a></td>
+      <td><a href="Days/Day05/notes.md" style="color:#1e4ca3;">Day 05</a></td>
       <td style="color:#28a745;">✅</td>
       <td>Process monitoring: <code>ps</code>, <code>top</code></td>
     </tr>
     <tr style="background-color:#fdf6ec;">
-      <td><a href="Days/Day05/notes.md" style="color:#1e4ca3;">Day 05</a></td>
+      <td><a href="Days/Day06/notes.md" style="color:#1e4ca3;">Day 06</a></td>
       <td style="color:#28a745;">✅</td>
       <td>Networking basics: <code>ping</code>, <code>netstat</code>, <code>ifconfig</code></td>
     </tr>
     <tr>
-      <td>Day 06</td>
+      <td>Day 07</td>
       <td style="color:#d08900;">⏳</td>
       <td>Coming soon...</td>
     </tr>
   </tbody>
 </table>
+
+<hr>
+
+<h2 style="color:#292929;">📘 Challenge Outline</h2>
+<p style="font-size:15px; color:#333333;">
+For a full list of planned tasks, milestones, and learning goals, see the 
+<a href="Resources/challenge-outline.md" style="color:#1e4ca3;">Challenge Outline</a>.
+</p>
+
+<hr>
+
+<p style="font-size:13px; color:#999999;">Made with ☕, curiosity, and a terminal window.</p>
