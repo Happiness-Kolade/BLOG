@@ -13,10 +13,4 @@ Because Linux is the native tongue of cybersecurity. Whether you're a Red Teamer
 ### 🔹 Why It Matters:
 This isn't just about typing commands. It's about confidence. It's about building muscle memory and removing fear of the terminal. It's about preparing to automate, to script, to monitor, to investigate, and ultimately, to secure.
 
-### 🔹 Why It Matters in the Journey:
-Every cybersecurity journey starts with small wins—getting comfortable with the terminal is one of them. Today, it’s `ls -la`. Tomorrow, it might be writing bash scripts, capturing packets, or dissecting malware. But it begins here, in the shell.
-
----
-
-I’ll be posting consistently over the next 100 days, documenting progress, reflections, and key takeaways. If you're on a similar path—or just curious—follow along. Let’s learn out loud.
   
