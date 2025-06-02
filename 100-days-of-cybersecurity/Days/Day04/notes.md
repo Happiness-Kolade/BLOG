@@ -357,3 +357,33 @@ Remember, in cybersecurity, it's not just about making things work - it's about 
 
 ---
 *Pro Tip: Keep a log of all the issues you encounter and how you solved them. This will be valuable for your future SOC interviews!* 💼
+
+## 📚 Useful Resources for Your Cybersecurity Journey
+
+### Official Documentation
+- [Cron Documentation (Linux Man Pages)](https://man7.org/linux/man-pages/man5/crontab.5.html) - The official guide to cron
+
+### Learning Platforms
+- [TryHackMe - Log Analysis Room](https://tryhackme.com/room/loganalysis) - Practice log analysis in a safe environment
+- [HackTheBox - Log Analysis Challenges](https://www.hackthebox.com/) - Real-world log analysis scenarios
+-
+
+
+### YouTube Channels
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor) - Practical security training
+- [Linux Academy](https://www.youtube.com/c/LinuxAcademy) - Linux and security tutorials
+
+
+
+### News & Updates
+- [The Hacker News](https://thehackernews.com/) - Latest security news
+- [Dark Reading](https://www.darkreading.com/) - Security news and analysis
+- [Bleeping Computer](https://www.bleepingcomputer.com/) - Tech news and security updates
+- [Security Weekly](https://securityweekly.com/) - Security podcasts and news
+
+
+Remember to:
+- Join relevant communities for support
+- Practice regularly in lab environments
+- Stay updated with security news
+- Document your learning journey
