@@ -60,7 +60,7 @@ This project documents my hands-on journey through 100 days of cybersecurity pra
 <h2 style="color:#292929;">📘 Challenge Outline</h2>
 <p style="font-size:15px; color:#333333;">
 The full outline of tasks across all 100 days is available in the 
-<a href="Resources/challenge-outline.md" style="color:#1e4ca3;">Challenge Plan</a>.
+<a href="Resources/Challengeoutline.md" style="color:#1e4ca3;">Challenge Plan</a>.
 </p>
 
 <hr>
