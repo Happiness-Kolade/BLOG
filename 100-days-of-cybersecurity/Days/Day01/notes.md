@@ -76,7 +76,7 @@ Linux feels intimidating if you’re new, but trust me, it’s just another lang
 - `ls` — Lists files and folders. Like looking around a room to see what’s there.  
 - `cd` — Changes your directory. It’s how you move through the filesystem maze.
 
-![Oracle Virtualbox interface](./screenshots/Screenshot 2025-05-28 002141.png)
+![Oracle Virtualbox interface](screenshots/Screenshot%202025-05-28%20002141.png)
 
 - `mkdir` — Makes a new directory, your way to organize things.  
 - `rm` — Removes files. Be careful with this one!  
