@@ -44,7 +44,7 @@ This project documents my hands-on journey through 100 days of cybersecurity pra
     </tr>
     <tr>
       <td><a href="Days/Day06/notes.md" style="color:#1e4ca3;">Day 06</a></td>
-      <td style="color:#d08900;">⏳</td>
+      <td style="color:#d08900;">✅</td>
       <td>Learn basic Linux networking commands (<code>ifconfig</code>, <code>ping</code>, <code>netstat</code>)</td>
     </tr>
     <tr style="background-color:#fdf6ec;">
