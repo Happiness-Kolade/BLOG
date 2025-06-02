@@ -75,9 +75,8 @@ Linux feels intimidating if you’re new, but trust me, it’s just another lang
 - `pwd` — Shows where you are. Think of it as your GPS telling you your location in the file system.  
 - `ls` — Lists files and folders. Like looking around a room to see what’s there.  
 - `cd` — Changes your directory. It’s how you move through the filesystem maze.
-## 🖼️ Screenshot
 
-![Oracle Virtualbox interface](./screenshots/Screenshot%2025-05-28%002141.png)
+![Oracle Virtualbox interface](./screenshots/Screenshot 2025-05-28 002141.png)
 
 - `mkdir` — Makes a new directory, your way to organize things.  
 - `rm` — Removes files. Be careful with this one!  
