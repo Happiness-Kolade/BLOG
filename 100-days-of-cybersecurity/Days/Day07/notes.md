@@ -35,7 +35,8 @@ sudo ufw default allow outgoing
 **Purpose:**  
 - `deny incoming`: This sets a secure default to block all incoming connections unless explicitly allowed
 - `allow outgoing`: Permits all outgoing connections by default, which is typical for most workstations
-
+- 
+![The firewall configuration](screenshots/Screenshot%202025-06-02%20231556.png)
 
 **Reflection:**  
 Setting these defaults establishes a good security baseline. It follows the principle of least privilege - nothing comes in unless I allow it, while still letting me access external resources.
@@ -54,9 +55,8 @@ sudo ufw allow from 192.168.1.0/24 to any port 22 proto tcp
 - Created a specific rule to allow SSH access only from my local network (192.168.1.0/24)
 
 **Mistake Made:**  
-Initially tried `sudo urw allow 22/tcp-` which failed due to incorrect syntax (typo in `urw` instead of `ufw` and invalid port specification).
+Initially tried `sudo urw allow 22/tcp-` which failed due to incorrect syntax (typo in `urw` instead of `ufw` and invalid port specification. Check the image above).
 
-![The firewall rules and mistake made](screenshots/Screenshot%202025-06-02%20231002.png)
 
 
 ![The firewall mistake corrected](screenshots/Screenshot%202025-06-02%20232128.png)
