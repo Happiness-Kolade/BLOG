@@ -49,9 +49,14 @@ This project documents my hands-on journey through 100 days of cybersecurity pra
     </tr>
     <tr style="background-color:#fdf6ec;">
       <td><a href="Days/Day07/notes.md" style="color:#1e4ca3;">Day 07</a></td>
-      <td style="color:#d08900;">⏳</td>
+      <td style="color:#d08900;">✅</td>
       <td>Configure and test basic firewall rules with <code>ufw</code></td>
     </tr>
+     <tr style="background-color:#fdf6ec;">
+      <td><a href="Days/Day08/notes.md" style="color:#1e4ca3;">Day 08</a></td>
+      <td style="color:#d08900;">⏳</td>
+      <td>Write a Bash script to monitor disk usage and alert if above 80%.</td>
+     </tr>
   </tbody>
 </table>
 
